@@ -110,7 +110,7 @@ for (var i = 1; i <=64; i++)
 
 /*================Инициализация damelor =================================*/
 
-	// damele albe 
+	// белые дамы 
 for (var i = 1; i <= 4; i++){
 	w_checker[i] = new checker(white_checker_class[i], "white", 2*i -1 );
 	w_checker[i].setCoord(0,0);
@@ -173,7 +173,7 @@ function showMoves (piece) {
 			erase_roads(selectedPiece);
 	}
 	selectedPiece = piece;
-	var i,j; // помните указатель леди
+	var i,j; // помните указатель дамкы
 	for ( j = 1; j <= 12; j++){
 		if(the_checker[j].id == piece){
 			i = j;
