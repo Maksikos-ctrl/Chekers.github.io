@@ -1,2 +1,1 @@
-# Chekers
-Rules of the game      The game is played on an 8x8 board, only on black cells     Checkers at the beginning of the game occupy the first three rows on each side     You can beat any number of checkers in any direction     Simple checkers only move forward     A simple checker can cut back     The queen moves to any number of fields in any direction     The one who has no pieces or moves left loses     The checker is removed from the field after the battle (can be paraphrased as follows: one checker cannot be cut down twice in one move)     Must beat     The checker turns into a king when it reaches the eighth (for white) or first (for black) line of the board
+
